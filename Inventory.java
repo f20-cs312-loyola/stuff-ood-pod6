@@ -69,8 +69,10 @@ public class Inventory
         items.remove(i);
       }
     }
+    
+    displayAll();
   }
 
-  displayAll();
+  //displayAll();
   
 }
